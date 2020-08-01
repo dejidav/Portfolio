@@ -5,6 +5,12 @@
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: [],
+  plugins: [
+    {
+      resolve: "gatsby-theme-portfolio",
+      options: {
+        contentPath: `${__dirname}/content` // the path to your markdown files
+      }
+    }
+  ]
 }
