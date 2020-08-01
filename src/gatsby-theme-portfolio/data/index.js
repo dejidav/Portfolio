@@ -4,7 +4,7 @@ module.exports = {
     author: "Ayodeji Olorunsogo",
     url: "https://gatsby-theme-portfolio.smakosh.com",
     legalName: "Ayodeji Olorunsogo",
-    defaultDescription: "I’m John and I’m a Backend & Devops engineer!",
+    defaultDescription: "I’m Ayodeji and I’m a Software engineer!",
     socialLinks: {
       twitter: "http://www.twitter.com/dejidav",
       github: "https://github.com/dejidav",
