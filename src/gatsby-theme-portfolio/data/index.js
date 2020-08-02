@@ -2,9 +2,9 @@ module.exports = {
     defaultTitle: "dejidav.rocks",
     logo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thehoth.com%2Ffree-online-logo-maker%2F&psig=AOvVaw2Q5KaRPB5FthMskjDySumQ&ust=1596033934193000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLis6--X8OoCFQAAAAAdAAAAABAH",
     author: "Ayodeji Olorunsogo",
-    url: "https://gatsby-theme-portfolio.smakosh.com",
+    url: "https://dejidav.rocks",
     legalName: "Ayodeji Olorunsogo",
-    defaultDescription: "I’m Ayodeji and I’m a Software engineer!",
+    defaultDescription: "My name is Ayodeji and I’m a Software engineer!",
     socialLinks: {
       twitter: "http://www.twitter.com/dejidav",
       github: "https://github.com/dejidav",
